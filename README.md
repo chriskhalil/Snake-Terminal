@@ -2,3 +2,4 @@
 A simple terminal Snake Game in c#
 
 ![plot](Screenshot_snake_0.1.jpg)
+![plot](Screenshot _snake_0.1_g.png)
