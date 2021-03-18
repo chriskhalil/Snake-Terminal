@@ -1,0 +1,16 @@
+/mnt/c/Users/Hunter/Desktop/Snake-terminal/bin/release/net5.0/Snake-terminal
+/mnt/c/Users/Hunter/Desktop/Snake-terminal/bin/release/net5.0/Snake-terminal.deps.json
+/mnt/c/Users/Hunter/Desktop/Snake-terminal/bin/release/net5.0/Snake-terminal.runtimeconfig.json
+/mnt/c/Users/Hunter/Desktop/Snake-terminal/bin/release/net5.0/Snake-terminal.runtimeconfig.dev.json
+/mnt/c/Users/Hunter/Desktop/Snake-terminal/bin/release/net5.0/Snake-terminal.dll
+/mnt/c/Users/Hunter/Desktop/Snake-terminal/bin/release/net5.0/ref/Snake-terminal.dll
+/mnt/c/Users/Hunter/Desktop/Snake-terminal/bin/release/net5.0/Snake-terminal.pdb
+/mnt/c/Users/Hunter/Desktop/Snake-terminal/obj/release/net5.0/Snake-terminal.csprojAssemblyReference.cache
+/mnt/c/Users/Hunter/Desktop/Snake-terminal/obj/release/net5.0/Snake-terminal.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/Hunter/Desktop/Snake-terminal/obj/release/net5.0/Snake-terminal.AssemblyInfoInputs.cache
+/mnt/c/Users/Hunter/Desktop/Snake-terminal/obj/release/net5.0/Snake-terminal.AssemblyInfo.cs
+/mnt/c/Users/Hunter/Desktop/Snake-terminal/obj/release/net5.0/Snake-terminal.csproj.CoreCompileInputs.cache
+/mnt/c/Users/Hunter/Desktop/Snake-terminal/obj/release/net5.0/Snake-terminal.dll
+/mnt/c/Users/Hunter/Desktop/Snake-terminal/obj/release/net5.0/ref/Snake-terminal.dll
+/mnt/c/Users/Hunter/Desktop/Snake-terminal/obj/release/net5.0/Snake-terminal.pdb
+/mnt/c/Users/Hunter/Desktop/Snake-terminal/obj/release/net5.0/Snake-terminal.genruntimeconfig.cache
